@@ -1,8 +1,5 @@
 # Projetos de Data Science
-
 Aqui você encontra os *notebooks* dos meus projetos de Data Science / Machine Learning.
-
----
 
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
