@@ -4,9 +4,9 @@ Aqui você encontra os *notebooks* dos meus projetos de Data Science / Machine L
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-**Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-
-**Analisando os Dados do Suicídio no Brasil (Setembro Amarelo):** https://bit.ly/2mvuTSd
+* **Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
+* **Analisando os Dados do Suicídio no Brasil (Setembro Amarelo):** https://bit.ly/2mvuTSd
+* **Análise dos Dados do Airbnb para o Rio de Janeiro:** https://bit.ly/2oBxmeK
 
 ---
 
