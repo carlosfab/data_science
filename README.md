@@ -12,6 +12,7 @@ Lista de projetos em Jupyter Notebook:
 * **Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 * **Analisando os Dados do Suicídio no Brasil (Setembro Amarelo):** https://bit.ly/2mvuTSd
 * **Análise dos Dados do Airbnb para o Rio de Janeiro:** https://bit.ly/2oBxmeK
+* **Avaliação de Risco de Crédito - Nubank:** https://bit.ly/2MTFIH3
 
 ---
 
